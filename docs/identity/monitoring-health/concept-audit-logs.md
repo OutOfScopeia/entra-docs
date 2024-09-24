@@ -47,7 +47,7 @@ Audit logs in Microsoft Entra ID provide access to system activity records, ofte
 
 **Applications:**
 
-- What applications were, updated, or removed?
+- What applications were added, updated, or removed?
 - Has a service principal for an application changed?
 - Have the names of applications been changed?
 
